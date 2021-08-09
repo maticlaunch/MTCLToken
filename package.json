@@ -1,0 +1,20 @@
+{
+  "name": "mtcltoken",
+  "version": "1.0.0",
+  "description": "Solidity Contract for MTCL",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.2.0",
+    "@truffle/hdwallet-provider": "^1.4.3"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "mtcl",
+    "maticlaunch"
+  ],
+  "author": "maticlaunch",
+  "license": "Apache-2.0"
+}
